@@ -43,7 +43,31 @@ npm run build
 npm run preview
 ```
 
+## Screenshots
+
+#### Home
+
+![](public/Readme/1.png)
+
+#### Search
+
+![](public/Readme/2.png)
+
+#### Trending
+
+![](public/Readme/3.png)
+
+#### Authentication
+
+![](public/Readme/4.png)
+
+#### Joining
+
+![](public/Readme/5.png)
+
 ## Links
+
+This project is for portfolio and learning purposes.
 
 - **Live deployment:** [quickdineout.com](https://quickdineout.com/)
 - **YouTube tutorial:** [original creator video](https://www.youtube.com/watch?v=Olj2fkG6Nf0)
