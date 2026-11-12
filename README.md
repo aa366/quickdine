@@ -47,23 +47,23 @@ npm run preview
 
 #### Home
 
-![](public/Readme/1.png)
+![](public/ReadMe/1.png)
 
 #### Search
 
-![](public/Readme/2.png)
+![](public/ReadMe/2.png)
 
 #### Trending
 
-![](public/Readme/3.png)
+![](public/ReadMe/3.png)
 
 #### Authentication
 
-![](public/Readme/4.png)
+![](public/ReadMe/4.png)
 
 #### Joining
 
-![](public/Readme/5.png)
+![](public/ReadMe/5.png)
 
 ## Links
 
